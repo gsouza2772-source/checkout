@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Meu site</title>
+  <style>
+    body { font-family: Arial; text-align: center; }
+    button { padding: 10px 20px; }
+  </style>
+</head>
+<body>
+  <h1>Bem-vindo</h1>
+  <p>Meu primeiro site feito pelo celular</p>
+  <button onclick="alert('Funcionou!')">Clique aqui</button>
+</body>
+</html>
